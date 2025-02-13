@@ -1,0 +1,1 @@
+This is a small autograd engine, made purely from numpy and python. This is still a work in progress and more features will be added with time.
